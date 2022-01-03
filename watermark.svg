@@ -1,0 +1,51 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 633 637" width="633" height="637">
+	<title>Korroz_Logo-ai</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="681.4" y1="156.1" x2="493" y2="673.6">
+			<stop offset="0" stop-color="#dd5171"  />
+			<stop offset=".3" stop-color="#ff843b"  />
+			<stop offset=".5" stop-color="#ffbf4f"  />
+			<stop offset=".8" stop-color="#ffeed2"  />
+			<stop offset=".9" stop-color="#fef2e2"  />
+			<stop offset="1" stop-color="#b9ebf3"  />
+			<stop offset="1" stop-color="#def2e9"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1=".4" y1="518.9" x2="142.7" y2="-12.2">
+			<stop offset=".1" stop-color="#dd5171"  />
+			<stop offset=".1" stop-color="#e45563"  />
+			<stop offset=".4" stop-color="#ff843b"  />
+			<stop offset=".6" stop-color="#ffbf4f"  />
+			<stop offset=".8" stop-color="#fef2e2"  />
+			<stop offset="1" stop-color="#b9ebf3"  />
+			<stop offset="1" stop-color="#def2e9"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="20.6" y1="578.1" x2="20.6" y2="57.9">
+			<stop offset="0" stop-color="#b9ebf3"  />
+			<stop offset=".2" stop-color="#edf2e6"  />
+			<stop offset=".4" stop-color="#fef2e2"  />
+			<stop offset=".5" stop-color="#ffbf4f"  />
+			<stop offset=".8" stop-color="#ff843b"  />
+			<stop offset="1" stop-color="#dd5171"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { opacity: .9;fill: url(#grd1) } 
+		.s1 { opacity: .9;fill: url(#grd2) } 
+		.s2 { opacity: .9;fill: url(#grd3) } 
+		.s3 { opacity: .7;fill: #ffffff } 
+	</style>
+	<g id="Layer 1">
+		<path id="&lt;Path&gt;" class="s0" d="m568.3 408.5l-166.91 166.91c-23.93 21.45-59.27 46.72-90.49 37.33c-0.42-0.13-0.83-0.32-1.24-0.46l203.77-203.77c49.77-49.77 49.77-131.21 0-180.98l-203.77-203.77c0.42-0.14 0.82-0.33 1.25-0.46c31.23-9.39 66.57 15.88 90.49 37.33l166.91 166.91c49.77 49.77 49.77 131.21 0 180.98z" />
+		<path id="&lt;Path&gt;" class="s1" d="m500.9 232.86c46.83 46.83 46.83 123.46 0 170.29l-199.49 199.5l-199.49-199.5c-46.83-46.83-46.83-123.46 0-170.29l199.49-199.49l199.49 199.49z" />
+		<path id="&lt;Path&gt;" class="s2" d="m259.04 578.15c-23.55-4.9-45.99-16.36-64.17-34.55l-135.1-135.1c-49.77-49.77-49.77-131.21 0-180.98l135.1-135.1c18.19-18.19 40.62-29.65 64.17-34.55l-169.65 169.65c-49.77 49.77-49.77 131.21 0 180.98l169.65 169.65z" />
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s3" d="m195.81 514.92c-4.4 5.46-8.83 10.88-13.16 16.52l-11.8-11.8c4.6-5.16 9.33-10.34 14.14-15.54l10.82 10.82z" />
+			<path id="&lt;Path&gt;" class="s3" d="m511.06 263.38c-90.17 45.49-206.66 120.4-307.28 241.63l-10.11-10.11c13.86-14.63 28.5-29.36 44.21-44.12c96.51-90.62 194.61-149.35 273.19-187.4z" />
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s3" d="m173.35 492.45c-4.28 5.65-8.68 11.33-12.76 16.93l-12.26-12.26c0.13-0.45 0.25-0.94 0.38-1.39c4.04-5.1 8.21-10.26 12.47-15.44l12.17 12.17z" />
+			<path id="&lt;Path&gt;" class="s3" d="m530.04 190.59c-89.15 44.97-204.06 118.64-303.9 237.45c-6.71 7.55-13.41 15.22-20.07 23.16c-8.74 10.42-17.05 20.77-25.04 31.07l-11.73-11.73c25.29-30.08 54.29-61.31 87.55-92.54c96.51-90.62 194.61-149.35 273.19-187.4z" />
+		</g>
+	</g>
+</svg>
